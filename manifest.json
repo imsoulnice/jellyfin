@@ -1,0 +1,21 @@
+[
+  {
+    "category": "Metadata",
+    "guid": "0f34b81a-4af7-4719-9958-4cb8f680e7c6",
+    "name": "JavScraper",
+    "description": "Emby/Jellyfin 的一个日本电影刮削器插件，可以从某些网站抓取影片信息。",
+    "owner": "JavScraper",
+    "overview": "Emby/Jellyfin 的一个日本电影刮削器插件，可以从某些网站抓取影片信息。",
+    "imageURL": "https://raw.githubusercontent.com/JavScraper/Emby.Plugins.JavScraper/master/Emby.Plugins.JavScraper/thumb.png",
+    "versions": [
+      {
+        "changelog": "修复封面切图问题，修复JAVDB数据抓取，增加从JAV321抓取剧情文字功能",
+        "targetAbi": "10.7.0.0",
+        "sourceUrl": "https://github.com/bjrjustin/Emby.Plugins.JavScraper/releases/download/v1.2022.0528.1141/Jellyfin.JavScraper%40v1.2022.0528.1143.zip",
+        "timestamp": "2022-05-28T13:58:43Z",
+        "version": "v1.2022.0528.1141",
+        "checksum": "55b4ef165e90b15607b89b6a16d22584"
+      }
+    ]
+  }
+]
